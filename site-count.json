@@ -1,6 +1,16 @@
 {
-    "siteCount": 27274,
+    "siteCount": 27278,
     "recentlyMoved": [
+        {
+            "domain_name": "welisten.online",
+            "destination": "SiteGround",
+            "date": "2024-12-11 03:59:08"
+        },
+        {
+            "domain_name": "5pointz.com",
+            "destination": "Kinsta",
+            "date": "2024-12-11 03:51:26"
+        },
         {
             "domain_name": "nadinenaber.com",
             "destination": "Kinsta",
@@ -477,11 +487,6 @@
             "date": "2024-12-10 16:27:42"
         },
         {
-            "domain_name": "primeplasticsurgery.com",
-            "destination": "Pressable",
-            "date": "2024-12-10 16:24:56"
-        },
-        {
             "domain_name": "www.creatingadventures.org.uk",
             "destination": "Kinsta",
             "date": "2024-12-10 16:20:27"
@@ -495,11 +500,6 @@
             "domain_name": "hgstonekingcontracting.com",
             "destination": "Digital Ocean",
             "date": "2024-12-10 16:08:35"
-        },
-        {
-            "domain_name": "pwpainting.com",
-            "destination": "Digital Ocean",
-            "date": "2024-12-10 15:54:49"
         }
     ],
     "dailyMovedStat": {
@@ -589,8 +589,8 @@
         "Pressable": 6234,
         "Bluehost": 3506,
         "Digital Ocean": 1699,
-        "Kinsta": 1623,
-        "SiteGround": 1531,
+        "Kinsta": 1624,
+        "SiteGround": 1532,
         "Hostinger": 865,
         "GoDaddy": 407,
         "BigScoots": 253,
